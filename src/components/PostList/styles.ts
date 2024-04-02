@@ -150,6 +150,8 @@ const MessageField = styled.textarea`
   border: none;
   resize: none;
   font-size: 1rem;
+  font-family: inherit;
+  line-height: 1.5;
   color: #ffffff;
   &:focus {
     outline: none;

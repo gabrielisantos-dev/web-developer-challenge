@@ -1,7 +1,6 @@
-*Buildbox Challenge*
-Este é um aplicativo simples desenvolvido em React.js que permite aos usuários visualizar uma lista de posts, adicionar novos posts e remover posts existentes. Os dados são manipulados localmente no Front-End, sem a necessidade de um Back-End.
+**BUILDBOX CHALLENGE**
 
-*Demonstração*
+Esta é uma aplicação simples desenvolvida em React.js que permite aos usuários visualizar uma lista de posts, adicionar novos posts e remover posts existentes. Os dados são manipulados localmente no Front-End.
 
 ![](./src/assets/pt1.png)
 
@@ -9,15 +8,18 @@ Este é um aplicativo simples desenvolvido em React.js que permite aos usuários
 
 ![](./src/assets/pt3.png)
 
-![](./src/assets/video/buildboxChallenge.mp4)
+![Demonstração do aplicativo](./src/assets/Gif/buildbox.gif)
 
 
-*Funcionalidades*
-Visualização de uma lista de posts.
-Adição de novos posts.
-Remoção de posts existentes.
+*FUNCIONALIDADES*
 
-*Tecnologias Utilizadas*
-React.js
-TypeScript
-Styled Components
+- Visualização de uma lista de posts.
+- Adição de novos posts.
+- Remoção de posts existentes.
+
+
+*TECNOLOGIAS UTILIZADAS*
+
+- React.js
+- TypeScript
+- Styled Components

@@ -34,6 +34,7 @@ const PostList: React.FC = () => {
     const postWithId = { ...newPost, id: nextId.toString() };
     setNextId(nextId + 1);
     setPosts([...posts, postWithId]);
+    clearFields();
   };
 
   useEffect(() => {
